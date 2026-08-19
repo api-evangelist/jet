@@ -31,7 +31,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: 'Acquired by Walmart in 2016; brand discontinued 2020; jet.com redirects to walmart.com.'
 x-acquired-by: walmart
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
