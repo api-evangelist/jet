@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://www.jet.com', status: 301, note: 'declared website redirects to https://www.walmart.com/ — a different registrable domain (jet.com -> walmart.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jet.png
 name: Jet
 description: 'Jet.com was an American e-commerce company and online marketplace founded in 2014
